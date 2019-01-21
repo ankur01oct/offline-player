@@ -1,0 +1,9 @@
+{
+  "name": "Sunbird-Mobile",
+  "integrations": {
+    "cordova": {},
+    "gulp": {}
+  },
+  "type": "ionic-angular",
+  "app_id": ""
+}
